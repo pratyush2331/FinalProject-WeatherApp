@@ -23,7 +23,6 @@ App Name: Weather App
 * EvilIcons
 
 # Screenshots
-It'll show Chennai's weather as default
 ![WhatsApp Image 2022-05-18 at 10 50 32 AM](https://user-images.githubusercontent.com/72189926/168963187-92c133c7-b0db-409d-a791-d6177b7ce2ce.jpeg)
 ![WhatsApp Image 2022-05-18 at 10 50 33 AM](https://user-images.githubusercontent.com/72189926/168963190-32a80c68-4c57-4522-a80c-a19b45fd9fba.jpeg)
 ![WhatsApp Image 2022-05-18 at 10 50 33 AM (1)](https://user-images.githubusercontent.com/72189926/168963191-63d1b77f-8e11-47da-b385-0af079f090e8.jpeg)
