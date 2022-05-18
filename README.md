@@ -5,6 +5,7 @@ App Name: Weather App
 
 * This app shows weather, humidity and wind speed slong with the background image of that weather of any location by searching it's name
 * Build using React Native and Expo
+* API used from openweatherAPI
 
 # Components Used
 * StatusBar
